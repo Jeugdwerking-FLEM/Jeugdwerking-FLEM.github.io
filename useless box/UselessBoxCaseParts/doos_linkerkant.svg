@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.352776mm"
+   height="128.35278mm"
+   viewBox="0 0 50.352776 128.35278"
+   version="1.1"
+   id="svg1491"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="doos_linkerkant.svg">
+  <defs
+     id="defs1485" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="192.60543"
+     inkscape:cy="272.51577"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="798"
+     inkscape:window-x="192"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1488">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-124.50218,-18.22242)"
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 124.67857,22.398809 h 6.25001 v 0 -4 0 h 7.49999 v 0 4 0 h 7.50001 v 0 -4 0 h 7.49998 v 0 45.699996 0 h 17.25001 v 0 5.650002 0 h 4 v 25.299996 0 h -4 v 0 19.699997 0 h 4 v 0 27.65001 0 h -6.25 v 0 4 0 h -7.5 v 0 -4 0 h -7.50001 v 0 4 0 h -7.49998 v 0 -4 0 h -7.50001 v 0 4 0 h -7.49999 v 0 -4 0 h -6.25001 v 0 -27.65001 0 h 4 v 0 -19.699997 0 h -4 V 69.748807 h 4 v 0 -19.699999 0 h -4 z"
+       fill="none"
+       stroke="#000000"
+       id="path1240"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.352777"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
